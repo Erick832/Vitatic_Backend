@@ -1,0 +1,12 @@
+C:\Users\arone\Desktop\Vitatic 1.0.0\Vita.dto\bin\Debug\net6.0\Vitatic.dto.deps.json
+C:\Users\arone\Desktop\Vitatic 1.0.0\Vita.dto\bin\Debug\net6.0\Vitatic.dto.dll
+C:\Users\arone\Desktop\Vitatic 1.0.0\Vita.dto\bin\Debug\net6.0\Vitatic.dto.pdb
+C:\Users\arone\Desktop\Vitatic 1.0.0\Vita.dto\obj\Debug\net6.0\Vitatic.dto.csproj.AssemblyReference.cache
+C:\Users\arone\Desktop\Vitatic 1.0.0\Vita.dto\obj\Debug\net6.0\Vitatic.dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arone\Desktop\Vitatic 1.0.0\Vita.dto\obj\Debug\net6.0\Vitatic.dto.AssemblyInfoInputs.cache
+C:\Users\arone\Desktop\Vitatic 1.0.0\Vita.dto\obj\Debug\net6.0\Vitatic.dto.AssemblyInfo.cs
+C:\Users\arone\Desktop\Vitatic 1.0.0\Vita.dto\obj\Debug\net6.0\Vitatic.dto.csproj.CoreCompileInputs.cache
+C:\Users\arone\Desktop\Vitatic 1.0.0\Vita.dto\obj\Debug\net6.0\Vitatic.dto.dll
+C:\Users\arone\Desktop\Vitatic 1.0.0\Vita.dto\obj\Debug\net6.0\refint\Vitatic.dto.dll
+C:\Users\arone\Desktop\Vitatic 1.0.0\Vita.dto\obj\Debug\net6.0\Vitatic.dto.pdb
+C:\Users\arone\Desktop\Vitatic 1.0.0\Vita.dto\obj\Debug\net6.0\ref\Vitatic.dto.dll

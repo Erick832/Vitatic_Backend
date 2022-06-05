@@ -10,5 +10,4 @@ public class Progress: EntityBase
 {
     public int Repetitions { get; set; }
     public int Points { get; set; }
-    public int Total { get; set; }
 }

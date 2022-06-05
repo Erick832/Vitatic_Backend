@@ -14,8 +14,8 @@ public class Interface : EntityBase
     public int ScheduleId { get; set; }
     public Schedule Schedule { get; set; }
 
-    public int InstruccionId { get; set; }
-    public Instruccion Instruccion { get;set;}
+    public int InstructionId { get; set; }
+    public Instruction Instruction { get;set;}
 
     public int AdviceSectionId { get; set; }
     public AdviceSection AdviceSection { get; set; }

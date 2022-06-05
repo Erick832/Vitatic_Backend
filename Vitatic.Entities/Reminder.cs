@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Vitatic.Entities;
 public class Reminder:EntityBase
 {   
-    public int InterfaceId { get; set; }
+    //public int InterfaceId { get; set; }
     public Interface Interface { get; set; }
 
 }

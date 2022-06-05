@@ -718,14 +718,14 @@
           "bin/placeholder/Vitatic.DataAccess.dll": {}
         }
       },
-      "Vitatic.Dto/1.0.0": {
+      "Vitatic.dto/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Vitatic.Dto.dll": {}
+          "bin/placeholder/Vitatic.dto.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Vitatic.Dto.dll": {}
+          "bin/placeholder/Vitatic.dto.dll": {}
         }
       },
       "Vitatic.Entities/1.0.0": {
@@ -2087,10 +2087,10 @@
       "path": "../Vitatic.DataAccess/Vitatic.DataAccess.csproj",
       "msbuildProject": "../Vitatic.DataAccess/Vitatic.DataAccess.csproj"
     },
-    "Vitatic.Dto/1.0.0": {
+    "Vitatic.dto/1.0.0": {
       "type": "project",
-      "path": "../Vitatic.Dto/Vitatic.Dto.csproj",
-      "msbuildProject": "../Vitatic.Dto/Vitatic.Dto.csproj"
+      "path": "../Vita.dto/Vitatic.dto.csproj",
+      "msbuildProject": "../Vita.dto/Vitatic.dto.csproj"
     },
     "Vitatic.Entities/1.0.0": {
       "type": "project",
@@ -2105,8 +2105,8 @@
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.5",
       "Swashbuckle.AspNetCore >= 6.2.3",
       "Vitatic.DataAccess >= 1.0.0",
-      "Vitatic.Dto >= 1.0.0",
-      "Vitatic.Entities >= 1.0.0"
+      "Vitatic.Entities >= 1.0.0",
+      "Vitatic.dto >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2136,11 +2136,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\arone\\Desktop\\Vitatic 1.0.0\\Vita.dto\\Vitatic.dto.csproj": {
+              "projectPath": "C:\\Users\\arone\\Desktop\\Vitatic 1.0.0\\Vita.dto\\Vitatic.dto.csproj"
+            },
             "C:\\Users\\arone\\Desktop\\Vitatic 1.0.0\\Vitatic.DataAccess\\Vitatic.DataAccess.csproj": {
               "projectPath": "C:\\Users\\arone\\Desktop\\Vitatic 1.0.0\\Vitatic.DataAccess\\Vitatic.DataAccess.csproj"
-            },
-            "C:\\Users\\arone\\Desktop\\Vitatic 1.0.0\\Vitatic.Dto\\Vitatic.Dto.csproj": {
-              "projectPath": "C:\\Users\\arone\\Desktop\\Vitatic 1.0.0\\Vitatic.Dto\\Vitatic.Dto.csproj"
             },
             "C:\\Users\\arone\\Desktop\\Vitatic 1.0.0\\Vitatic.Entities\\Vitatic.Entities.csproj": {
               "projectPath": "C:\\Users\\arone\\Desktop\\Vitatic 1.0.0\\Vitatic.Entities\\Vitatic.Entities.csproj"

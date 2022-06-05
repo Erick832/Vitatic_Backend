@@ -13,8 +13,8 @@
           "Microsoft.EntityFrameworkCore.Tools": "6.0.5",
           "Swashbuckle.AspNetCore": "6.2.3",
           "Vitatic.DataAccess": "1.0.0",
-          "Vitatic.Dto": "1.0.0",
-          "Vitatic.Entities": "1.0.0"
+          "Vitatic.Entities": "1.0.0",
+          "Vitatic.dto": "1.0.0"
         },
         "runtime": {
           "Vitatic.dll": {}
@@ -494,9 +494,9 @@
           "Vitatic.DataAccess.dll": {}
         }
       },
-      "Vitatic.Dto/1.0.0": {
+      "Vitatic.dto/1.0.0": {
         "runtime": {
-          "Vitatic.Dto.dll": {}
+          "Vitatic.dto.dll": {}
         }
       },
       "Vitatic.Entities/1.0.0": {
@@ -860,7 +860,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Vitatic.Dto/1.0.0": {
+    "Vitatic.dto/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

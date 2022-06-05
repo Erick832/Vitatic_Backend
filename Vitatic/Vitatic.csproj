@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Vita.dto\Vitatic.dto.csproj" />
     <ProjectReference Include="..\Vitatic.DataAccess\Vitatic.DataAccess.csproj" />
-    <ProjectReference Include="..\Vitatic.Dto\Vitatic.Dto.csproj" />
     <ProjectReference Include="..\Vitatic.Entities\Vitatic.Entities.csproj" />
   </ItemGroup>
 
